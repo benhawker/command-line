@@ -1,1 +1,0 @@
-ps is a UNIX command. It outputs a report of the current processes that are running. 
