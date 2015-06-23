@@ -1,0 +1,1 @@
+The mv command is a UNIX command. It moves a file (or more) from one place to another. If the file(s) is being moved within the same filesystem then it is really just renaming the files, otherwise it will copy the files to the new location and delete them from the old location.
