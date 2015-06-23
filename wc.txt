@@ -1,0 +1,1 @@
+wc is a UNIX command. wc takes either standard input or a file input and will output to the terminal the word count on the input.
