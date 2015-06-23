@@ -1,0 +1,1 @@
+cp is a UNIX command that copies a file or folder from one location to another within a file system or to another file system.
