@@ -1,0 +1,1 @@
+grep is a UNIX command that searches files that given as an input parameter to it. If a match is found it will output the resulting match.
